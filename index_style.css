@@ -1,0 +1,27 @@
+.profile{
+    justify-content: center;
+    display: flex;
+    img{
+        
+        border-radius: 50%;
+        height: 100px;
+        width: 100px;
+    }
+}
+
+.video{
+    img{
+        width: 154px;
+        height: 254px;
+        margin-right: 14px;
+    }
+}
+
+a{
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
